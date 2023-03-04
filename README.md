@@ -30,6 +30,14 @@ columns and will be ignored.
 
 ## Usage
 
+If expected favourite dancers score is unknown
+
+```
+python3 predict.py <place> <band>
+```
+
+If expected favourite dancers score is known
+
 ```
 python3 predict.py <place> <band> <favourite dancers %>
 ```
