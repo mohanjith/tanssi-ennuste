@@ -1,8 +1,9 @@
 # predict score based on band and place using mathematical models
 # data in data/set-1.csv
-# usage: python predict.py <place> <band> <favourite dancers %>
+# usage: python predict.py <place> <band> <day> <favourite dancers %>
 
 import sys
+import time
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
@@ -13,8 +14,9 @@ from sklearn.preprocessing import LabelEncoder
 def main():
     place = sys.argv[1]
     band = sys.argv[2]
-    if len(sys.argv) > 3:
-        favouriteDancers = sys.argv[3]
+    day = time.strptime(sys.argv[3], "%A").tm_wday
+    if len(sys.argv) > 4:
+        favouriteDancers = sys.argv[4]
     else:
         favouriteDancers = None
 
@@ -29,8 +31,8 @@ def main():
 
     data = data.sample(frac=1)
 
-    features = []
-    prediction = []
+    features = ['Day']
+    prediction = [day]
     target = ['Score (%)', 'Favourite dancers %']
 
     if favouriteDancers:

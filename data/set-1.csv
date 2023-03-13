@@ -1,52 +1,58 @@
-Date,Place,Band,Score (%),Distance (km),Beginners %,Experienced %,Friends %,Favourite dancers %,Reported By
-2022-12-05,Ruusulinna,Taikakuu,100,175,10,90,90,100,Mohanjith
-2022-12-05,Ruusulinna,Varjokuva,100,175,10,90,90,100,Mohanjith
-2022-12-05,Ruusulinna,Neittoset,100,175,10,90,90,100,Mohanjith
-2022-12-31,Ruusulinna,Hurma,100,175,10,90,90,100,Mohanjith
-2022-12-31,Ruusulinna,In the mood,100,175,10,90,90,100,Mohanjith
-2023-01-20,Ruusulinna,Taikakuu,50,175,80,20,5,25,Mohanjith
-2023-02-03,Ruusulinna,Varjokuva,75,175,10,90,30,25,Mohanjith
-2023-02-03,Ruusulinna,In the mood,75,175,10,90,30,25,Mohanjith
-2023-02-10,Ruusulinna,Hurma,100,175,10,90,50,50,Mohanjith
-2022-11-26,Valtatie 2,Komiat,90,170,10,90,75,0,Mohanjith
-2022-11-26,Valtatie 2,Weranta,90,170,10,90,75,0,Mohanjith
-2022-12-03,Valtatie 2,Taikakuu,90,170,10,90,75,25,Mohanjith
-2022-12-03,Valtatie 2,Varjokuva,90,170,10,90,75,25,Mohanjith
-2023-01-05,Valtatie 2,Finlanders,80,170,50,50,50,50,Mohanjith
-2023-01-05,Valtatie 2,Weranta,80,170,50,50,50,50,Mohanjith
-2023-01-07,Valtatie 2,Hurma,100,170,50,50,50,50,Mohanjith
-2023-01-07,Valtatie 2,Kuiskaus,100,170,50,50,50,50,Mohanjith
-2023-02-25,Valtatie 2,Taikakuu,75,170,10,90,90,0,Mohanjith
-2023-02-25,Valtatie 2,Hurma,75,170,10,90,90,0,Mohanjith
-2023-02-25,Valtatie 2,Weranta,75,170,10,90,90,0,Mohanjith
-2022-12-04,Kerhola,Taikakuu,100,208,10,90,80,50,Mohanjith
-2022-12-11,Kerhola,Sinitaivas,100,208,10,90,80,50,Mohanjith
-2022-12-18,Kerhola,Hurma,100,208,10,90,80,50,Mohanjith
-2023-01-15,Kerhola,Hurma,100,208,10,90,80,50,Mohanjith
-2023-01-22,Kerhola,Taikakuu,100,208,10,90,80,50,Mohanjith
-2023-01-29,Kerhola,Varjokuva,100,208,10,90,80,75,Mohanjith
-2023-02-05,Kerhola,Sinitaivas,100,208,10,90,80,50,Mohanjith
-2023-02-26,Kerhola,Kaiho,100,208,10,90,80,25,Mohanjith
-2022-12-03,Auran nuortentalo,Hurma,75,84,10,90,90,0,Mohanjith
-2022-12-03,Auran nuortentalo,Weranta,75,84,10,90,90,0,Mohanjith
-2022-12-10,Auran nuortentalo,Etiketti,60,84,10,90,90,0,Mohanjith
-2022-12-10,Auran nuortentalo,Tunturitähti,60,84,10,90,90,0,Mohanjith
-2022-12-17,Auran nuortentalo,Sinitaivas,100,84,10,90,90,25,Mohanjith
-2022-12-17,Auran nuortentalo,In the mood,100,84,10,90,90,25,Mohanjith
-2022-12-26,Auran nuortentalo,Komiat,100,84,10,90,90,25,Mohanjith
-2022-12-26,Auran nuortentalo,Omega,100,84,10,90,90,25,Mohanjith
-2023-01-07,Auran nuortentalo,FBI-beat,90,84,10,90,90,0,Mohanjith
-2023-01-07,Auran nuortentalo,Markku Aro,90,84,10,90,90,0,Mohanjith
-2023-01-14,Auran nuortentalo,Kuiskaus,90,84,10,90,90,0,Mohanjith
-2023-01-14,Auran nuortentalo,Jussi Lammela,90,84,10,90,90,0,Mohanjith
-2023-01-21,Auran nuortentalo,Taikakuu,100,84,10,90,90,50,Mohanjith
-2023-01-21,Auran nuortentalo,Kaiho,100,84,10,90,90,50,Mohanjith
-2023-01-28,Auran nuortentalo,Myrskylyhty,90,84,10,90,90,0,Mohanjith
-2023-01-28,Auran nuortentalo,Eija Kantola,90,84,10,90,90,0,Mohanjith
-2023-02-04,Auran nuortentalo,Varjokuva,100,84,10,90,90,50,Mohanjith
-2023-02-04,Auran nuortentalo,Helminauha,100,84,10,90,90,50,Mohanjith
-2023-02-11,Auran nuortentalo,Hurma,90,84,10,90,90,0,Mohanjith
-2023-02-11,Auran nuortentalo,Tino Ahlgren,90,84,10,90,90,0,Mohanjith
-2023-02-17,Teeriharju,Varjokuva,70,73,20,90,70,0,Mohanjith
-2023-02-17,Teeriharju,Fernanda,70,73,20,90,70,0,Mohanjith
-2023-03-03,Tanssikrouvi,Hurma,100,194,30,70,20,50,Mohanjith 
+Date,Day,Place,Band,Score (%),Distance (km),Beginners %,Experienced %,Friends %,Favourite dancers %,Reported By
+2022-11-26,5,Valtatie 2,Komiat,90,170,10,90,75,0,Mohanjith
+2022-11-26,5,Valtatie 2,Weranta,90,170,10,90,75,0,Mohanjith
+2022-12-03,5,Valtatie 2,Taikakuu,90,170,10,90,75,25,Mohanjith
+2022-12-03,5,Valtatie 2,Varjokuva,90,170,10,90,75,25,Mohanjith
+2022-12-03,5,Auran nuortentalo,Hurma,75,84,10,90,90,0,Mohanjith
+2022-12-03,5,Auran nuortentalo,Weranta,75,84,10,90,90,0,Mohanjith
+2022-12-04,6,Kerhola,Taikakuu,100,208,10,90,80,50,Mohanjith
+2022-12-05,0,Ruusulinna,Taikakuu,100,175,10,90,90,100,Mohanjith
+2022-12-05,0,Ruusulinna,Varjokuva,100,175,10,90,90,100,Mohanjith
+2022-12-05,0,Ruusulinna,Neittoset,100,175,10,90,90,100,Mohanjith
+2022-12-10,5,Auran nuortentalo,Etiketti,60,84,10,90,90,0,Mohanjith
+2022-12-10,5,Auran nuortentalo,Tunturitähti,60,84,10,90,90,0,Mohanjith
+2022-12-11,6,Kerhola,Sinitaivas,100,208,10,90,80,50,Mohanjith
+2022-12-17,5,Auran nuortentalo,Sinitaivas,100,84,10,90,90,25,Mohanjith
+2022-12-17,5,Auran nuortentalo,In the mood,100,84,10,90,90,25,Mohanjith
+2022-12-18,6,Kerhola,Hurma,100,208,10,90,80,50,Mohanjith
+2022-12-26,0,Auran nuortentalo,Komiat,100,84,10,90,90,25,Mohanjith
+2022-12-26,0,Auran nuortentalo,Omega,100,84,10,90,90,25,Mohanjith
+2022-12-31,5,Ruusulinna,Hurma,100,175,10,90,90,100,Mohanjith
+2022-12-31,5,Ruusulinna,In the mood,100,175,10,90,90,100,Mohanjith
+2023-01-05,3,Valtatie 2,Finlanders,80,170,50,50,50,50,Mohanjith
+2023-01-05,3,Valtatie 2,Weranta,80,170,50,50,50,50,Mohanjith
+2023-01-07,5,Valtatie 2,Hurma,100,170,50,50,50,50,Mohanjith
+2023-01-07,5,Valtatie 2,Kuiskaus,100,170,50,50,50,50,Mohanjith
+2023-01-07,5,Auran nuortentalo,FBI-beat,90,84,10,90,90,0,Mohanjith
+2023-01-07,5,Auran nuortentalo,Markku Aro,90,84,10,90,90,0,Mohanjith
+2023-01-14,5,Auran nuortentalo,Kuiskaus,90,84,10,90,90,0,Mohanjith
+2023-01-14,5,Auran nuortentalo,Jussi Lammela,90,84,10,90,90,0,Mohanjith
+2023-01-15,6,Kerhola,Hurma,100,208,10,90,80,50,Mohanjith
+2023-01-20,4,Ruusulinna,Taikakuu,50,175,80,20,5,25,Mohanjith
+2023-01-21,5,Auran nuortentalo,Taikakuu,100,84,10,90,90,50,Mohanjith
+2023-01-21,5,Auran nuortentalo,Kaiho,100,84,10,90,90,50,Mohanjith
+2023-01-22,6,Kerhola,Taikakuu,100,208,10,90,80,50,Mohanjith
+2023-01-28,5,Auran nuortentalo,Myrskylyhty,90,84,10,90,90,0,Mohanjith
+2023-01-28,5,Auran nuortentalo,Eija Kantola,90,84,10,90,90,0,Mohanjith
+2023-01-29,6,Kerhola,Varjokuva,100,208,10,90,80,75,Mohanjith
+2023-02-03,4,Ruusulinna,Varjokuva,75,175,10,90,30,25,Mohanjith
+2023-02-03,4,Ruusulinna,In the mood,75,175,10,90,30,25,Mohanjith
+2023-02-04,5,Auran nuortentalo,Varjokuva,100,84,10,90,90,50,Mohanjith
+2023-02-04,5,Auran nuortentalo,Helminauha,100,84,10,90,90,50,Mohanjith
+2023-02-05,6,Kerhola,Sinitaivas,100,208,10,90,80,50,Mohanjith
+2023-02-10,4,Ruusulinna,Hurma,100,175,10,90,50,50,Mohanjith
+2023-02-11,5,Auran nuortentalo,Hurma,90,84,10,90,90,0,Mohanjith
+2023-02-11,5,Auran nuortentalo,Tino Ahlgren,90,84,10,90,90,0,Mohanjith
+2023-02-17,4,Teeriharju,Varjokuva,70,73,20,90,70,0,Mohanjith
+2023-02-17,4,Teeriharju,Fernanda,70,73,20,90,70,0,Mohanjith
+2023-02-25,5,Valtatie 2,Taikakuu,75,170,10,90,90,25,Mohanjith
+2023-02-25,5,Valtatie 2,Hurma,75,170,10,90,90,25,Mohanjith
+2023-02-25,5,Valtatie 2,Weranta,75,170,10,90,90,25,Mohanjith
+2023-02-26,6,Kerhola,Kaiho,100,208,10,90,80,25,Mohanjith
+2023-03-03,4,Tanssikrouvi,Hurma,100,194,30,70,20,50,Mohanjith 
+2023-03-04,5,Auran nuortentalo,Energia,100,84,10,90,90,50,Mohanjith 
+2023-03-04,5,Auran nuortentalo,Patajätkä,100,84,10,90,90,50,Mohanjith 
+2023-03-05,6,Kerhola,Weranta ,100,208,5,95,90,75,Mohanjith 
+2023-03-11,5,Valtatie 2,Sinitaivas ,100,170,5,95,90,100,Mohanjith 
+2023-03-11,5,Valtatie 2 ,Kaiho,100,170,5,95,90,100,Mohanjith 
+2023-03-12,6,Kerhola,Taikakuu,100,208,5,95,90,100,Mohanjith
