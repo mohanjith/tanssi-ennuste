@@ -5,7 +5,7 @@
 import sys
 import time
 import pandas as pd
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import LabelEncoder
 
 # main function
@@ -57,7 +57,7 @@ def main():
         features.append('Place Index')
         prediction.append(place_index)
 
-    model = RandomForestClassifier(
+    model = RandomForestRegressor(
         n_estimators=100, max_depth=2, random_state=0)
     model.fit(data[features].values, data[target].values)
 

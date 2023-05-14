@@ -8,17 +8,17 @@ Date,Day,Place,Band,Score (%),Distance (km),Beginners %,Experienced %,Friends %,
 2022-12-04,6,Kerhola,Taikakuu,100,208,10,90,80,50,Mohanjith
 2022-12-05,0,Ruusulinna,Taikakuu,100,175,10,90,90,100,Mohanjith
 2022-12-05,0,Ruusulinna,Varjokuva,100,175,10,90,90,100,Mohanjith
-2022-12-05,0,Ruusulinna,Neittoset,100,175,10,90,90,100,Mohanjith
+2022-12-05,0,Ruusulinna,Neitoset,100,175,10,90,90,100,Mohanjith
 2022-12-10,5,Auran nuortentalo,Etiketti,60,84,10,90,90,0,Mohanjith
 2022-12-10,5,Auran nuortentalo,Tunturitähti,60,84,10,90,90,0,Mohanjith
 2022-12-11,6,Kerhola,Sinitaivas,100,208,10,90,80,50,Mohanjith
 2022-12-17,5,Auran nuortentalo,Sinitaivas,100,84,10,90,90,25,Mohanjith
-2022-12-17,5,Auran nuortentalo,In the mood,100,84,10,90,90,25,Mohanjith
+2022-12-17,5,Auran nuortentalo,In The Mood,100,84,10,90,90,25,Mohanjith
 2022-12-18,6,Kerhola,Hurma,100,208,10,90,80,50,Mohanjith
 2022-12-26,0,Auran nuortentalo,Komiat,100,84,10,90,90,25,Mohanjith
 2022-12-26,0,Auran nuortentalo,Omega,100,84,10,90,90,25,Mohanjith
 2022-12-31,5,Ruusulinna,Hurma,100,175,10,90,90,100,Mohanjith
-2022-12-31,5,Ruusulinna,In the mood,100,175,10,90,90,100,Mohanjith
+2022-12-31,5,Ruusulinna,In The Mood,100,175,10,90,90,100,Mohanjith
 2023-01-05,3,Valtatie 2,Finlanders,80,170,50,50,50,50,Mohanjith
 2023-01-05,3,Valtatie 2,Weranta,80,170,50,50,50,50,Mohanjith
 2023-01-07,5,Valtatie 2,Hurma,100,170,50,50,50,50,Mohanjith
@@ -36,7 +36,7 @@ Date,Day,Place,Band,Score (%),Distance (km),Beginners %,Experienced %,Friends %,
 2023-01-28,5,Auran nuortentalo,Eija Kantola,90,84,10,90,90,0,Mohanjith
 2023-01-29,6,Kerhola,Varjokuva,100,208,10,90,80,75,Mohanjith
 2023-02-03,4,Ruusulinna,Varjokuva,75,175,10,90,30,25,Mohanjith
-2023-02-03,4,Ruusulinna,In the mood,75,175,10,90,30,25,Mohanjith
+2023-02-03,4,Ruusulinna,In The Mood,75,175,10,90,30,25,Mohanjith
 2023-02-04,5,Auran nuortentalo,Varjokuva,100,84,10,90,90,50,Mohanjith
 2023-02-04,5,Auran nuortentalo,Helminauha,100,84,10,90,90,50,Mohanjith
 2023-02-05,6,Kerhola,Sinitaivas,100,208,10,90,80,50,Mohanjith
@@ -52,7 +52,48 @@ Date,Day,Place,Band,Score (%),Distance (km),Beginners %,Experienced %,Friends %,
 2023-03-03,4,Tanssikrouvi,Hurma,100,194,30,70,20,50,Mohanjith 
 2023-03-04,5,Auran nuortentalo,Energia,100,84,10,90,90,50,Mohanjith 
 2023-03-04,5,Auran nuortentalo,Patajätkä,100,84,10,90,90,50,Mohanjith 
-2023-03-05,6,Kerhola,Weranta ,100,208,5,95,90,75,Mohanjith 
-2023-03-11,5,Valtatie 2,Sinitaivas ,100,170,5,95,90,100,Mohanjith 
-2023-03-11,5,Valtatie 2 ,Kaiho,100,170,5,95,90,100,Mohanjith 
+2023-03-05,6,Kerhola,Weranta,100,208,5,95,90,75,Mohanjith 
+2023-03-11,5,Valtatie 2,Sinitaivas,100,170,5,95,90,100,Mohanjith 
+2023-03-11,5,Valtatie 2,Kaiho,100,170,5,95,90,100,Mohanjith 
 2023-03-12,6,Kerhola,Taikakuu,100,208,5,95,90,100,Mohanjith
+2023-03-17,4,Teeriharju,Sinitaivas,100,73,10,90,90,50,Mohanjith 
+2023-03-17,4,Teeriharju,Etiketti,100,73,10,90,90,50,Mohanjith 
+2023-03-18,5,Pesäkallio,Hurma,100,241,5,95,10,25,Mohanjith
+2023-03-19,6,Kerhola,Etiketti,100,208,0,100,90,100,Mohanjith 
+2023-03-24,4,Ruusulinna,In The Mood,100,175,1,99,90,75,Mohanjith
+2023-03-24,4,Ruusulinna,Kaiho,100,175,1,99,90,75,Mohanjith
+2023-03-25,5,Auran nuortentalo,eXmiehet,100,84,5,95,90,75,Mohanjith
+2023-03-25,5,Auran nuortentalo,Weranta,100,84,5,95,90,75,Mohanjith
+2023-03-26,6,Kerhola,Sinitaivas,100,208,5,95,90,75,Mohanjith
+2023-03-31,4,Teeriharju,Komiat,100,73,10,90,80,75,Mohanjith 
+2023-03-31,4,Teeriharju,Neitoset,100,73,10,90,80,75,Mohanjith 
+2023-04-01,5,Ruusulinna,Varjokuva,100,175,5,95,40,75,Mohanjith 
+2023-04-01,5,Ruusulinna,Patajätkä,100,175,5,95,40,75,Mohanjith 
+2023-04-02,6,Kerhola,Finlanders,50,208,10,90,5,25,Mohanjith 
+2023-04-07,4,Ruusulinna,Komiat,100,175,5,95,50,50,Mohanjith
+2023-04-07,4,Ruusulinna,Onnenkerjäläiset,100,175,5,95,50,50,Mohanjith 
+2023-04-08,5,Auran nuortentalo,Komiat,100,84,20,80,80,50,Mohanjith 
+2023-04-08,5,Auran nuortentalo,Onnentähti,100,84,20,80,80,50,Mohanjith 
+2023-04-09,6,Eerikkilä,Hurma,100,106,30,70,70,75,Mohanjith
+2023-04-10,0,Kerhola,Varjokuva,100,208,10,90,90,75,Mohanjith
+2023-04-14,4,Teeriharju,Taikakuu,100,73,5,95,90,50,Mohanjith 
+2023-04-14,4,Teeriharju,Helminauha,100,73,5,95,90,50,Mohanjith 
+2023-04-15,5,Ruusulinna,Hurma,100,175,10,90,50,50,Mohanjith 
+2023-04-16,6,Kerhola,Taikakuu,100,208,10,90,90,100,Mohanjith 
+2023-04-21,4,Esakallio,Hurma,100,80,10,90,90,75,Mohanjith
+2023-04-21,4,Esakallio,Onnentähti,100,80,10,90,90,75,Mohanjith
+2023-04-22,5,Valtatie 2,Taikakuu,100,170,5,95,90,50,Mohanjith
+2023-04-22,5,Valtatie 2,Kaiho,100,170,5,95,90,50,Mohanjith
+2023-04-23,6,Kerhola,Hurma,100,208,5,95,90,100,Mohanjith 
+2023-04-26,2,Pavi,Komiat,50,170,95,5,10,50,Mohanjith 
+2023-04-27,3,Ideapark Lempäälä,Taikakuu,100,188,5,95,100,100,Mohanjith 
+2023-04-28,4,Kapakanmäki,Kaiho,100,189,10,90,90,100,Mohanjith 
+2023-04-28,4,Kapakanmäki,Komiat,100,189,10,90,90,100,Mohanjith 
+2023-04-29,5,Auran nuortentalo,Taikakuu,80,84,10,90,90,0,Mohanjith
+2023-04-29,5,Auran nuortentalo,Tähtikartta,80,84,10,90,90,0,Mohanjith
+2023-04-30,6,Riutanharju,Hurma,100,179,10,90,75,100,Mohanjith
+2023-04-30,6,Riutanharju,Matti ja Teppo,100,179,10,90,75,100,Mohanjith
+2023-05-04,3,Tullikamarin pakkahuone,Kaiho,100,204,5,95,75,75,Mohanjith 
+2023-05-05,4,Esakallio,Weranta,100,80,10,90,90,75,Mohanjith 
+2023-05-05,4,Esakallio,Taikakuu,100,80,10,90,90,75,Mohanjith 
+2023-05-06,5,Riutanharju,Taikakuu,100,179,10,90,70,100,Mohanjith
